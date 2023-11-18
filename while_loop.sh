@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-set -x
+set -e
 
 i=1
 while [[ $i -le 10 ]]; do
